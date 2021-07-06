@@ -18,5 +18,5 @@ To aid the scribes, return the firstname and lastname column concatenated, separ
 ```sql
 --but on the land of Lórien no shadow lay--
 
-SELECT CONCAT(INITCAP(firstname), ' ', lastname) AS shortlist FROM Elves WHERE  firstname LIKE '%tegil%' OR lastname LIKE '%astar%';
+SELECT INITCAP(CONCAT(firstname, ' ', lastname)) AS shortlist FROM Elves WHERE  firstname LIKE '%tegil%' OR lastname LIKE '%astar%';
 ```
