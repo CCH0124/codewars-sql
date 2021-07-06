@@ -8,4 +8,4 @@
 |難度|題目|答案|
 |---|---|---|
 |7 kyu|SQL Basics: Up and Down|[link](\7kyu\Up-and-Down.md)|
-
+|7 kyu|SQL with LOTR: Elven Wildcards|[link](\7kyu\Elven-Wildcards.md)|
