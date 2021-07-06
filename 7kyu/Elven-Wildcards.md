@@ -20,3 +20,7 @@ To aid the scribes, return the firstname and lastname column concatenated, separ
 
 SELECT INITCAP(CONCAT(firstname, ' ', lastname)) AS shortlist FROM Elves WHERE  firstname LIKE '%tegil%' OR lastname LIKE '%astar%';
 ```
+
+參考資源
+
+- [postgresqltutorial](https://www.postgresqltutorial.com/postgresql-letter-case-functions/)
