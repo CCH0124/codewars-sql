@@ -6,10 +6,11 @@
 |7 kyu|SQL with LOTR: Elven Wildcards|[link](\7kyu\Elven-Wildcards.md)|
 
 ## 聚合
-|難度|題目|答案|
-|---|---|---|
-|7 kyu|SQL Basics: Up and Down|[link](\7kyu\Up-and-Down.md)|
-|6 kyu|SQL Basics: Simple HAVING|[link](6kyu\Simple-HAVING.md)|
+|難度|題目|答案|使用的函數|
+|---|---|---|---|
+|7 kyu|SQL Basics: Up and Down|[link](\7kyu\Up-and-Down.md)||
+|6 kyu|SQL Basics: Simple HAVING|[link](6kyu\Simple-HAVING.md)||
+|7 kyu|SQL: Disorder|[link](\7kyu\Disorder.md)|`RANDOM`|
 
 ## Text 搜尋
 
