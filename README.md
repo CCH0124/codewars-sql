@@ -17,3 +17,9 @@
 |難度|題目|答案|使用的函數|
 |---|---|---|---|
 |6 kyu|SQL Basics: Simple FULL TEXT SEARCH|[link](\6kyu\Simple-FULL-TEXT-SEARCH.md)|`to_tsvector`、`to_tsquery`|
+
+## Network Address 函數
+
+|難度|題目|答案|使用的函數|
+|---|---|---|---|
+|7 kyu|First and last IP in a network|[link](\7kyu\First-and-last-IP-in-a-network.md)|`network`、`broadcast`|
