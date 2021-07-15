@@ -29,3 +29,9 @@
 |---|---|---|---|
 |7 kyu|First and last IP in a network|[link](\7kyu\First-and-last-IP-in-a-network.md)|`network`、`broadcast`|
 |5 kyu|Count IP Addresses|[link](\5kyu\Count-IP-Addresses.md)|`inet`|
+
+## Window function
+
+|難度|題目|答案|使用的函數|
+|---|---|---|---|
+|5 kyu|Using Window Functions To Get Top N per Group|[link](\5kyu\Using-Window-Functions-To-Get-Top-N-per-Group.md)|`RANK`、`JOIN`、`subquery`|
