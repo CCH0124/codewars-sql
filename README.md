@@ -35,3 +35,11 @@
 |難度|題目|答案|使用的函數|
 |---|---|---|---|
 |5 kyu|Using Window Functions To Get Top N per Group|[link](\5kyu\Using-Window-Functions-To-Get-Top-N-per-Group.md)|`RANK`、`JOIN`、`subquery`|
+
+## PIVOTING data
+|難度|題目|答案|使用的函數|
+|---|---|---|---|
+|5 kyu|SQL Basics: Simple PIVOTING data|[link](\5kyu\Simple-PIVOTING-data.md)|`CROSSTAB`|
+
+
+
