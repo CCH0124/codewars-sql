@@ -16,6 +16,7 @@
 |7 kyu|SQL Basics: Up and Down|[link](\7kyu\Up-and-Down.md)||
 |6 kyu|SQL Basics: Simple HAVING|[link](6kyu\Simple-HAVING.md)||
 |7 kyu|SQL: Disorder|[link](\7kyu\Disorder.md)|`RANDOM`|
+|5 kyu|SQL Basics: Group By Day|[link](\5kyu\Group-By-Day.md)|`group by`|
 
 ## Text 搜尋
 
