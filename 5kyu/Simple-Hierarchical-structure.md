@@ -30,7 +30,7 @@ WITH RECURSIVE employee_levels(level, id, first_name, last_name, manager_id) AS 
 	FROM
 		employees
 	WHERE
-    manager_id is NULL 
+    manager_id is NULL  -- 非遞規
 	UNION
 		SELECT
 			level + 1,
@@ -40,7 +40,7 @@ WITH RECURSIVE employee_levels(level, id, first_name, last_name, manager_id) AS 
       e.manager_id
 		FROM
 			employees e
-		INNER JOIN employee_levels el ON e.manager_id = el.id
+		INNER JOIN employee_levels el ON e.manager_id = el.id -- 遞規
 ) SELECT
 	*
 FROM
