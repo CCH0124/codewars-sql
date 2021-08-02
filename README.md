@@ -42,5 +42,11 @@
 |---|---|---|---|
 |5 kyu|SQL Basics: Simple PIVOTING data|[link](\5kyu\Simple-PIVOTING-data.md)|`CROSSTAB`|
 
+## CTE
+|難度|題目|答案|使用的函數|
+|---|---|---|---|
+|5 kyu|SQL Basics: Simple Hierarchical structure|[link](\5kyu\Simple-Hierarchical-structure.md)|`RECURSIVE`|
+
+
 
 
