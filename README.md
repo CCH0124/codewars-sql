@@ -48,5 +48,11 @@
 |5 kyu|SQL Basics: Simple Hierarchical structure|[link](\5kyu\Simple-Hierarchical-structure.md)|`RECURSIVE`|
 
 
+## Null handler
+|難度|題目|答案|使用的函數|
+|---|---|---|---|
+|6 kyu|SQL Basics: Simple NULL handling|[link](\6kyu\SQL-Basics-Simple-NULL-handling.md)|`COALESCE`、`NULLIF`|
+
+
 
 
