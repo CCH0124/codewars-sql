@@ -41,6 +41,7 @@
 |難度|題目|答案|使用的函數|
 |---|---|---|---|
 |5 kyu|SQL Basics: Simple PIVOTING data|[link](\5kyu\Simple-PIVOTING-data.md)|`CROSSTAB`|
+|6 kyu|SQL Basics: Simple PIVOTING data WITHOUT CROSSTAB|[link](\6kyu\SQL-Basics-Simple-PIVOTING-data-WITHOUT-CROSSTAB.md)||
 
 ## CTE
 |難度|題目|答案|使用的函數|
