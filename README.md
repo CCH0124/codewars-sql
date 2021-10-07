@@ -2,7 +2,7 @@
 |難度|題目|答案|使用關鍵字|
 |---|---|---|---|
 |6 kyu|SQL Basics: Simple IN|[link](\6kyu\Simple-IN.md)|`IN`|
-
+|6 kyu|Calculating Batting Average|[link](\6kyu\CalculatingBattingAverage.md)|`IN`|
 
 ## 字串處裡
 |難度|題目|答案|
