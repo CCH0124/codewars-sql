@@ -3,6 +3,7 @@
 |---|---|---|---|
 |6 kyu|SQL Basics: Simple IN|[link](/6kyu/Simple-IN.md)|`IN`|
 |6 kyu|Calculating Batting Average|[link](/6kyu/CalculatingBattingAverage.md)|`CAST`、`ROUND`|
+|8 kyu|Grasshopper - Check for factor|[link](/8kyu/Grasshopper-Check-for-factor.md)|`MOD`|
 
 ## 字串處裡
 |難度|題目|答案|
