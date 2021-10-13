@@ -7,6 +7,8 @@
 |8 kyu|SQL Basics: Simple MIN / MAX|[link](/8kyu/SQL-Basics-Simple-MIN-MAX.md)|`MIN`、`MAX`|
 |8 kyu|On the Canadian Border (SQL for Beginners #2)|[link](/8kyu/On-the-Canadian-Border-(SQL-for-Beginners#2).md)|`WHERE`|
 |8 kyu|Keep Hydrated!)|[link](/8kyu/Keep-Hydrated.md)|`FLOOR`|
+|7 kyu |Easy SQL: Cube Root and Natural Log|[link](/7kyu/Easy-SQL-Cube-Root-and-Natural-Log.md)|`cbrt`、`LN`|
+
 ## 字串處裡
 |難度|題目|答案|
 |---|---|---|
