@@ -8,7 +8,8 @@
 |8 kyu|On the Canadian Border (SQL for Beginners #2)|[link](/8kyu/On-the-Canadian-Border-(SQL-for-Beginners#2).md)|`WHERE`|
 |8 kyu|Keep Hydrated!|[link](/8kyu/Keep-Hydrated.md)|`FLOOR`|
 |7 kyu |Easy SQL: Cube Root and Natural Log|[link](/7kyu/Easy-SQL-Cube-Root-and-Natural-Log.md)|`cbrt`、`LN`|
-|8 kyu|Easy SQL: Convert to Hexadecimal|[link](/8kyu/Easy-SQL-Convert-to-Hexadecimal.md)|`FLOOR`|
+|8 kyu|Easy SQL: Convert to Hexadecimal|[link](/8kyu/Easy-SQL-Convert-to-Hexadecimal.md)|`TO_HEX`|
+|7 kyu|Easy SQL: Absolute Value and Log to Base|[link](/8kyu/Easy-SQL-Absolute-Value-and-Log-to-Base.md)|`ABS`、`LOG`|
 
 ## 字串處裡
 |難度|題目|答案|
