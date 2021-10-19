@@ -11,6 +11,8 @@
 |8 kyu|Easy SQL: Convert to Hexadecimal|[link](/8kyu/Easy-SQL-Convert-to-Hexadecimal.md)|`TO_HEX`|
 |7 kyu|Easy SQL: Absolute Value and Log to Base|[link](/8kyu/Easy-SQL-Absolute-Value-and-Log-to-Base.md)|`ABS`、`LOG`|
 |8 kyu|Returning Strings|[link](/8kyu/Returning-Strings.md)|`FORMAT`、`CONCAT`|
+|8 kyu|Easy SQL - Ordering|[link](/8kyu/Easy-SQL-Ordering.md)|`ORDER BY`|
+
 ## 字串處裡
 |難度|題目|答案|
 |---|---|---|
