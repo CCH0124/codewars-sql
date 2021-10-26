@@ -13,6 +13,7 @@
 |8 kyu|Returning Strings|[link](/8kyu/Returning-Strings.md)|`FORMAT`、`CONCAT`|
 |8 kyu|Easy SQL - Ordering|[link](/8kyu/Easy-SQL-Ordering.md)|`ORDER BY`|
 |7 kyu|SQL Basics: Raise to the Power|[link](/7kyu/SQL-Basics-Raise-to-the-Power.md)|`POWER`|
+|8 kyu|Even or Odd|[link](/8kyu/Even-or-Odd.md)|`CASE`|
 
 ## 字串處裡
 |難度|題目|答案|
