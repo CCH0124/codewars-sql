@@ -14,7 +14,7 @@
 |8 kyu|Easy SQL - Ordering|[link](/8kyu/Easy-SQL-Ordering.md)|`ORDER BY`|
 |7 kyu|SQL Basics: Raise to the Power|[link](/7kyu/SQL-Basics-Raise-to-the-Power.md)|`POWER`|
 |8 kyu|Even or Odd|[link](/8kyu/Even-or-Odd.md)|`CASE`|
-
+|8 kyu|Is n divisible by x and y?|[link](/8kyu/Is-n-divisible-by-x-and-y.md)|`AND`|
 ## 字串處裡
 |難度|題目|答案|
 |---|---|---|
