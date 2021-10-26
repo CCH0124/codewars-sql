@@ -15,6 +15,8 @@
 |7 kyu|SQL Basics: Raise to the Power|[link](/7kyu/SQL-Basics-Raise-to-the-Power.md)|`POWER`|
 |8 kyu|Even or Odd|[link](/8kyu/Even-or-Odd.md)|`CASE`|
 |8 kyu|Is n divisible by x and y?|[link](/8kyu/Is-n-divisible-by-x-and-y.md)|`AND`|
+|8 kyu|Grasshopper - Messi goals function|[link](/8kyu/Grasshopper-Messi-goals-function.md)||
+
 ## 字串處裡
 |難度|題目|答案|
 |---|---|---|
