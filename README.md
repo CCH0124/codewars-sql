@@ -17,6 +17,8 @@
 |8 kyu|Is n divisible by x and y?|[link](/8kyu/Is-n-divisible-by-x-and-y.md)|`AND`|
 |8 kyu|Grasshopper - Messi goals function|[link](/8kyu/Grasshopper-Messi-goals-function.md)||
 |8 kyu|Register for the Party (SQL for Beginners #3)|[link](/8kyu/Register-for-the-Party.md)|`INSERT INTO`|
+|7 kyu|Maximum Multiple|[link](/7kyu/Maximum-Multiple.md)||
+|8 kyu|SQL Basics: Simple SUM|[link](/8kyu/SQL-Basics-Simple-SUM.md)|`SUM`|
 ## 字串處裡
 |難度|題目|答案|
 |---|---|---|
