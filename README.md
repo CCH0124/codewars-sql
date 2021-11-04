@@ -22,10 +22,11 @@
 |8 kyu|SQL Grasshopper: Select Columns|[link](/8kyu/SQL-Grasshopper-Select-Columns.md)|`SELECT`|
 |7 kyu|SQL Basics - Position|[link](/7kyu/SQL-Basics-Position.md)|`position`|
 ## 字串處裡
-|難度|題目|答案|
-|---|---|---|
-|6 kyu|SQL: Regex AlphaNumeric Split|[link](/6kyu/RegexAlphaNumericSplit.md)|
-|7 kyu|SQL with LOTR: Elven Wildcards|[link](/7kyu/Elven-Wildcards.md)|
+|難度|題目|答案|使用關鍵字|
+|---|---|---|---|
+|6 kyu|SQL: Regex AlphaNumeric Split|[link](/6kyu/RegexAlphaNumericSplit.md)||
+|7 kyu|SQL with LOTR: Elven Wildcards|[link](/7kyu/Elven-Wildcards.md)||
+|8 kyu|Easy SQL: LowerCase|[link](/8kyu/Easy-SQL-LowerCase.md)|`LOWER`|
 
 ## 聚合
 |難度|題目|答案|使用的函數|
