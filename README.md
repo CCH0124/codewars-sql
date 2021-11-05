@@ -36,6 +36,7 @@
 |7 kyu|SQL: Disorder|[link](/7kyu/Disorder.md)|`RANDOM`|
 |5 kyu|SQL Basics: Group By Day|[link](/5kyu/Group-By-Day.md)|`group by`|
 |7 kyu|GROCERY STORE: Logistic Optimisation|[link](/7kyu/Up-and-Down.md)|`GROUP BY`、`ORDER BY`、`COUNT`|
+|6 kyu|SQL Bug Fixing: Fix the JOIN|[link](/6kyu/SQL-Bug-Fixing-Fix-the-JOIN.md)|`JOIN`、`CAST`、`GROUP BY`、`ORDER BY`|
 ## Text 搜尋
 
 |難度|題目|答案|使用的函數|
