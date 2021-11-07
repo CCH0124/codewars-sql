@@ -21,6 +21,7 @@
 |8 kyu|SQL Basics: Simple SUM|[link](/8kyu/SQL-Basics-Simple-SUM.md)|`SUM`|
 |8 kyu|SQL Grasshopper: Select Columns|[link](/8kyu/SQL-Grasshopper-Select-Columns.md)|`SELECT`|
 |7 kyu|SQL Basics - Position|[link](/7kyu/SQL-Basics-Position.md)|`position`|
+|8 kyu|SQL Basics: Simple DISTINCT|[link](/8kyu/SQL-Basics-Simple-DISTINCT.md)|`DISTINCT`|
 ## 字串處裡
 |難度|題目|答案|使用關鍵字|
 |---|---|---|---|
