@@ -23,6 +23,7 @@
 |7 kyu|SQL Basics - Position|[link](/7kyu/SQL-Basics-Position.md)|`position`|
 |8 kyu|SQL Basics: Simple DISTINCT|[link](/8kyu/SQL-Basics-Simple-DISTINCT.md)|`DISTINCT`|
 |6 kyu|SQL Basics: Simple EXISTS|[link](/6kyu/SQL-Basics-Simple-EXISTS.md)|`EXISTS`|
+|6 kyu|SQL Basics - Monsters using CASE|[link](/6kyu/SQL-Basics-Monsters-using-CASE.md)|`JOIN`、`CASE`|
 
 ## 字串處裡
 |難度|題目|答案|使用關鍵字|
