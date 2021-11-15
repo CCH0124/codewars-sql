@@ -25,6 +25,7 @@
 |6 kyu|SQL Basics: Simple EXISTS|[link](/6kyu/SQL-Basics-Simple-EXISTS.md)|`EXISTS`|
 |6 kyu|SQL Basics - Monsters using CASE|[link](/6kyu/SQL-Basics-Monsters-using-CASE.md)|`JOIN`、`CASE`|
 |7 kyu|SQL Basics: Simple JOIN with COUNT|[link](/7kyu/SQL-Basics-Simple-JOIN-with-COUNT.md)|`JOIN`|
+
 ## 字串處裡
 |難度|題目|答案|使用關鍵字|
 |---|---|---|---|
@@ -41,7 +42,7 @@
 |5 kyu|SQL Basics: Group By Day|[link](/5kyu/Group-By-Day.md)|`group by`|
 |7 kyu|GROCERY STORE: Logistic Optimisation|[link](/7kyu/Up-and-Down.md)|`GROUP BY`、`ORDER BY`、`COUNT`|
 |6 kyu|SQL Bug Fixing: Fix the JOIN|[link](/6kyu/SQL-Bug-Fixing-Fix-the-JOIN.md)|`JOIN`、`CAST`、`GROUP BY`、`ORDER BY`|
-
+|6 kyu|SQL Basics: Simple table totaling.|[link](/6kyu/SQL-Basics-Simple-table-totaling.md)|`RANK`、`COALESCE`、`GROUP BY`、`ORDER BY`、`SUM`、`COUNT`|
 ## Text 搜尋
 
 |難度|題目|答案|使用的函數|
