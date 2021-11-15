@@ -79,5 +79,7 @@
 |6 kyu|SQL Basics: Simple NULL handling|[link](/6kyu/SQL-Basics-Simple-NULL-handling.md)|`COALESCE`、`NULLIF`|
 
 
-
-
+## Create Function
+|難度|題目|答案|
+|---|---|---|
+|7 kyu|SQL Basics: Create a FUNCTION|[link](/7kyu/SQL-Basics-Create-a-FUNCTION.md)|
