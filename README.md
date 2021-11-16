@@ -25,7 +25,7 @@
 |6 kyu|SQL Basics: Simple EXISTS|[link](/6kyu/SQL-Basics-Simple-EXISTS.md)|`EXISTS`|
 |6 kyu|SQL Basics - Monsters using CASE|[link](/6kyu/SQL-Basics-Monsters-using-CASE.md)|`JOIN`、`CASE`|
 |7 kyu|SQL Basics: Simple JOIN with COUNT|[link](/7kyu/SQL-Basics-Simple-JOIN-with-COUNT.md)|`JOIN`|
-
+|6 kyu|SQL Basics: Simple UNION ALL|[link](/6kyu/SQL-Basics-Simple-UNION-ALL.md)|`UNION ALL`|
 ## 字串處裡
 |難度|題目|答案|使用關鍵字|
 |---|---|---|---|
