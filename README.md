@@ -26,6 +26,8 @@
 |6 kyu|SQL Basics - Monsters using CASE|[link](/6kyu/SQL-Basics-Monsters-using-CASE.md)|`JOIN`、`CASE`|
 |7 kyu|SQL Basics: Simple JOIN with COUNT|[link](/7kyu/SQL-Basics-Simple-JOIN-with-COUNT.md)|`JOIN`|
 |6 kyu|SQL Basics: Simple UNION ALL|[link](/6kyu/SQL-Basics-Simple-UNION-ALL.md)|`UNION ALL`|
+|7 kyu|BASICS: Length based SELECT with LIKE|[link](/7kyu/BASICS-Length-based-SELECT-with-LIKE.md)|`LIKE`|
+
 ## 字串處裡
 |難度|題目|答案|使用關鍵字|
 |---|---|---|---|
