@@ -86,3 +86,9 @@
 |難度|題目|答案|
 |---|---|---|
 |7 kyu|SQL Basics: Create a FUNCTION|[link](/7kyu/SQL-Basics-Create-a-FUNCTION.md)|
+
+
+## JSON
+|難度|題目|答案|使用的函數|
+|---|---|---|---|
+|6 kyu|Present JSON data the SQL way|[link](/6kyu/Present-JSON-data-the-SQL-way.md)|`EXTRACT`、`AGE`、`JSON 操作`|
