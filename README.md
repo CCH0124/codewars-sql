@@ -28,6 +28,10 @@
 |6 kyu|SQL Basics: Simple UNION ALL|[link](/6kyu/SQL-Basics-Simple-UNION-ALL.md)|`UNION ALL`|
 |7 kyu|BASICS: Length based SELECT with LIKE|[link](/7kyu/BASICS-Length-based-SELECT-with-LIKE.md)|`LIKE`|
 
+## 困難
+|難度|題目|答案|使用的函數|
+|---|---|---|---|
+|4 kyu|Dealing With Messy Data|[link](/4kyu/Dealing-With-Messy-Data.md)|`GROUP BY`、`pg_trgm`、`gin 操作`|
 ## 字串處裡
 |難度|題目|答案|使用關鍵字|
 |---|---|---|---|
