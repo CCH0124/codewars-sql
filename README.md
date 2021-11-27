@@ -49,6 +49,8 @@
 |7 kyu|GROCERY STORE: Logistic Optimisation|[link](/7kyu/Up-and-Down.md)|`GROUP BY`、`ORDER BY`、`COUNT`|
 |6 kyu|SQL Bug Fixing: Fix the JOIN|[link](/6kyu/SQL-Bug-Fixing-Fix-the-JOIN.md)|`JOIN`、`CAST`、`GROUP BY`、`ORDER BY`|
 |6 kyu|SQL Basics: Simple table totaling.|[link](/6kyu/SQL-Basics-Simple-table-totaling.md)|`RANK`、`COALESCE`、`GROUP BY`、`ORDER BY`、`SUM`、`COUNT`|
+|5 kyu|SQL Statistics: MIN, MEDIAN, MAX|[link](/5kyu/SQL-Statistics-MIN-MEDIAN-MAX.md)|`MAX`、`MIN`、`PERCENTILE_CONT`|
+
 ## Text 搜尋
 
 |難度|題目|答案|使用的函數|
