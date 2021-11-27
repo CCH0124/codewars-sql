@@ -96,3 +96,9 @@
 |難度|題目|答案|使用的函數|
 |---|---|---|---|
 |6 kyu|Present JSON data the SQL way|[link](/6kyu/Present-JSON-data-the-SQL-way.md)|`EXTRACT`、`AGE`、`JSON 操作`|
+
+
+## VIEW
+|難度|題目|答案|使用的函數|
+|---|---|---|---|
+|5 kyu|SQL Basics: Simple VIEW|[link](/5kyu/SQL-Basics-Simple-VIEW.md)|`VIEW`、`GROUP BY `|
