@@ -28,3 +28,6 @@ CREATE VIEW members_approved_for_voucher AS
 
 SELECT * FROM members_approved_for_voucher;
 ```
+
+**Ref**
+- https://www.postgresqltutorial.com/managing-postgresql-views/
