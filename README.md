@@ -29,6 +29,7 @@
 |7 kyu|BASICS: Length based SELECT with LIKE|[link](/7kyu/BASICS-Length-based-SELECT-with-LIKE.md)|`LIKE`|
 |7 kyu|Easy SQL: ASCII Converter|[link](/7kyu/Easy-SQL-ASCII-Converter.md)|`ASCII`、`LEFT`|
 |7 kyu|SQL with Harry Potter: Sorting Hat Comparators|[link](/7kyu/SQL-with-Harry-Potter-Sorting-Hat-Comparators)|`ORDER BY`|
+|7 kyu|SQL Basics: Simple JOIN|[link](/7kyu/SQL-Basics-Simple-JOIN.md)|`JOIN`|
 
 ## 困難
 |難度|題目|答案|使用的函數|
