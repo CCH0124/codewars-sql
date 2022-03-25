@@ -107,3 +107,9 @@
 |難度|題目|答案|使用的函數|
 |---|---|---|---|
 |5 kyu|SQL Basics: Simple VIEW|[link](/5kyu/SQL-Basics-Simple-VIEW.md)|`VIEW`、`GROUP BY `|
+
+## JOIM 困難一點
+|難度|題目|答案|使用的函數|
+|---|---|---|---|
+|6 kyu|SQL Basics: Top 10 customers by total payments amount|[link](/6kyu/SQL-Basics-Top-10-customers-by-total-payments-amount.md)|`LEFT JOIN`、`GROUP BY`、`SUM`、`COUNT`、`LIMIT`|
+
