@@ -27,6 +27,9 @@
 |7 kyu|SQL Basics: Simple JOIN with COUNT|[link](/7kyu/SQL-Basics-Simple-JOIN-with-COUNT.md)|`JOIN`|
 |6 kyu|SQL Basics: Simple UNION ALL|[link](/6kyu/SQL-Basics-Simple-UNION-ALL.md)|`UNION ALL`|
 |7 kyu|BASICS: Length based SELECT with LIKE|[link](/7kyu/BASICS-Length-based-SELECT-with-LIKE.md)|`LIKE`|
+|7 kyu|Easy SQL: ASCII Converter|[link](/7kyu/Easy-SQL-ASCII-Converter.md)|`ASCII`、`LEFT`|
+|7 kyu|SQL with Harry Potter: Sorting Hat Comparators|[link](/7kyu/SQL-with-Harry-Potter-Sorting-Hat-Comparators)|`ORDER BY`|
+|7 kyu|SQL Basics: Simple JOIN|[link](/7kyu/SQL-Basics-Simple-JOIN.md)|`JOIN`|
 
 ## 困難
 |難度|題目|答案|使用的函數|
@@ -109,3 +112,8 @@
 |難度|題目|答案|使用的函數|
 |---|---|---|---|
 |6 kyu|SQL Basics: Simple WITH|[link](/6kyu/SQL-Basics-Simple-WITH.md)|`WITH`、`IN`|
+## JOIN 困難一點
+|難度|題目|答案|使用的函數|
+|---|---|---|---|
+|6 kyu|SQL Basics: Top 10 customers by total payments amount|[link](/6kyu/SQL-Basics-Top-10-customers-by-total-payments-amount.md)|`LEFT JOIN`、`GROUP BY`、`SUM`、`COUNT`、`LIMIT`|
+
