@@ -31,6 +31,7 @@
 |7 kyu|SQL with Harry Potter: Sorting Hat Comparators|[link](/7kyu/SQL-with-Harry-Potter-Sorting-Hat-Comparators)|`ORDER BY`|
 |7 kyu|SQL Basics: Simple JOIN|[link](/7kyu/SQL-Basics-Simple-JOIN.md)|`JOIN`|
 |7 kyu|SQL with Pokemon: Damage Multipliers|[link](/7kyu/SQL-with-Pokemon-Damage-Multipliers.md)|`JOIN`、`ORDER BY`|
+|7 kyu|SQL Basics: Simple GROUP BY|[link](/7kyu/SQL-Basics-Simple-GROUP-BY.md)|`GROUP BY`|
 ## 困難
 |難度|題目|答案|使用的函數|
 |---|---|---|---|
