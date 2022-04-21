@@ -41,6 +41,7 @@
 |6 kyu|SQL: Regex AlphaNumeric Split|[link](/6kyu/RegexAlphaNumericSplit.md)||
 |7 kyu|SQL with LOTR: Elven Wildcards|[link](/7kyu/Elven-Wildcards.md)||
 |8 kyu|Easy SQL: LowerCase|[link](/8kyu/Easy-SQL-LowerCase.md)|`LOWER`|
+|7 kyu|SQL: Concatenating Columns|[link](/7kyu/SQL-Concatenating-Columns.md)|`CONCAT`|
 
 ## 聚合
 |難度|題目|答案|使用的函數|
