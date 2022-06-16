@@ -92,9 +92,10 @@
 
 
 ## Create Function
-|難度|題目|答案|
-|---|---|---|
-|7 kyu|SQL Basics: Create a FUNCTION|[link](/7kyu/SQL-Basics-Create-a-FUNCTION.md)|
+|難度|題目|答案|使用的函數|
+|---|---|---|---|
+|7 kyu|SQL Basics: Create a FUNCTION|[link](/7kyu/SQL-Basics-Create-a-FUNCTION.md)||
+|6 kyu|SQL Basics: Create a FUNCTION (DATES)|[link](/6kyu/SQL-Basics-Create-A-Function-DATES.md)|[`age`](https://www.postgresqltutorial.com/postgresql-date-functions/postgresql-age/)、[`extract`](https://www.postgresqltutorial.com/postgresql-date-functions/postgresql-extract/)|
 
 
 ## JSON
