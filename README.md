@@ -118,8 +118,10 @@
 |難度|題目|答案|使用的函數|
 |---|---|---|---|
 |6 kyu|SQL Basics: Simple WITH|[link](/6kyu/SQL-Basics-Simple-WITH.md)|`WITH`、`IN`|
-## JOIN 困難一點
+## JOIN
 |難度|題目|答案|使用的函數|
 |---|---|---|---|
 |6 kyu|SQL Basics: Top 10 customers by total payments amount|[link](/6kyu/SQL-Basics-Top-10-customers-by-total-payments-amount.md)|`LEFT JOIN`、`GROUP BY`、`SUM`、`COUNT`、`LIMIT`|
-
+|6 kyu|SQL Basics: Simple JOIN and RANK|[link](/6kyu/SQL-Basics-Simple-JOIN-and-RANK.md)|`JOIN`、`GROUP BY`、`RANK`、`COUNT`|
+|7 kyu|SQL with Pokemon: Damage Multipliers|[link](/7kyu/SQL-with-Pokemon-Damage-Multipliers.md)|`JOIN`、`ORDER BY`|
+|6 kyu|SQL Basics - Monsters using CASE|[link](/6kyu/SQL-Basics-Monsters-using-CASE.md)|`JOIN`、`CASE`|
