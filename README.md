@@ -32,6 +32,8 @@
 |7 kyu|SQL Basics: Simple JOIN|[link](/7kyu/SQL-Basics-Simple-JOIN.md)|`JOIN`|
 |7 kyu|SQL with Pokemon: Damage Multipliers|[link](/7kyu/SQL-with-Pokemon-Damage-Multipliers.md)|`JOIN`、`ORDER BY`|
 |7 kyu|SQL Basics: Simple GROUP BY|[link](/7kyu/SQL-Basics-Simple-GROUP-BY.md)|`GROUP BY`|
+|7 kyu|SQL Basics - Trimming the Field|[link](/7kyu/SQL-Basics-Trimming-the-Field.md)|`split_part`|
+
 ## 困難
 |難度|題目|答案|使用的函數|
 |---|---|---|---|
@@ -43,6 +45,7 @@
 |7 kyu|SQL with LOTR: Elven Wildcards|[link](/7kyu/Elven-Wildcards.md)||
 |8 kyu|Easy SQL: LowerCase|[link](/8kyu/Easy-SQL-LowerCase.md)|`LOWER`|
 |7 kyu|SQL: Concatenating Columns|[link](/7kyu/SQL-Concatenating-Columns.md)|`CONCAT`|
+|7 kyu|SQL Basics - Trimming the Field|[link](/7kyu/SQL-Basics-Trimming-the-Field.md)|`split_part`|
 
 ## 聚合
 |難度|題目|答案|使用的函數|
