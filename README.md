@@ -33,7 +33,7 @@
 |7 kyu|SQL with Pokemon: Damage Multipliers|[link](/7kyu/SQL-with-Pokemon-Damage-Multipliers.md)|`JOIN`、`ORDER BY`|
 |7 kyu|SQL Basics: Simple GROUP BY|[link](/7kyu/SQL-Basics-Simple-GROUP-BY.md)|`GROUP BY`|
 |7 kyu|SQL Basics - Trimming the Field|[link](/7kyu/SQL-Basics-Trimming-the-Field.md)|`split_part`|
-
+|7 kyu|Sum of odd numbers|[link](/7kyu/Sum-of-odd-numbers.md)|`POWER`|
 ## 困難
 |難度|題目|答案|使用的函數|
 |---|---|---|---|
