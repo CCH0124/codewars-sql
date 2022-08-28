@@ -46,6 +46,8 @@
 |8 kyu|Easy SQL: LowerCase|[link](/8kyu/Easy-SQL-LowerCase.md)|`LOWER`|
 |7 kyu|SQL: Concatenating Columns|[link](/7kyu/SQL-Concatenating-Columns.md)|`CONCAT`|
 |7 kyu|SQL Basics - Trimming the Field|[link](/7kyu/SQL-Basics-Trimming-the-Field.md)|`split_part`|
+|7 kyu|SQL: Right and Left|[link](/7kyu/SQL-Right-and-Left.md)|`LEFT`、`RIGHT`、`substring`|
+|7 kyu|SQL: Padding Encryption|[link](/7kyu/SQL-Padding-Encryption.md)|`REPEAT`、`CONCAT`|
 
 ## 聚合
 |難度|題目|答案|使用的函數|
