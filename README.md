@@ -38,6 +38,8 @@
 |難度|題目|答案|使用的函數|
 |---|---|---|---|
 |4 kyu|Dealing With Messy Data|[link](/4kyu/Dealing-With-Messy-Data.md)|`GROUP BY`、`pg_trgm`、`gin 操作`|
+|4 kyu|Bezos Gets Eccentric with DVD Rentals: Prime Subscriptions for Prime Rentals with Even Digits|[link](/4kyu/Bezos Gets Eccentric with DVD Rentals-Prime Subscriptions for Prime Rentals with Even Digits-SQL.md)|`GROUP BY`、`regexp_split_to_table`、`generate_series`|
+
 ## 字串處裡
 |難度|題目|答案|使用關鍵字|
 |---|---|---|---|
