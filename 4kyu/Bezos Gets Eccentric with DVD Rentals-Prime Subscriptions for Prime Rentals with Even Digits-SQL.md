@@ -122,3 +122,18 @@ ORDER BY
     all_rentals DESC,      -- 2. 總租借次數（降序）
     last_name ASC;         -- 3. 姓氏（升序）
 ```
+
+
+1. 資料彙總 (customer_summary)：
+
+  * 使用 `||` 符號將 first_name 與 last_name 合併為 customer_name。
+  * 透過 COUNT(rental_id) 計算租借總數。
+  * 使用 ROUND(SUM(amount), 2) 處理支付金額並保留兩位小數。
+
+2. ID 數字總和條件：
+
+  * 使用 `regexp_split_to_table` 將 ID（如 123）拆解為多個橫列（1, 2, 3），再進行 SUM 加總。
+  * 最後判斷 `id_digit_sum % 2 = 0` 來確認是否為偶數。
+
+3. 質數判斷條件：
+  * generate_series 用來動態生成這段範圍的數字進行除法測試。
